@@ -1,2 +1,2 @@
 # Hello-world- Jonathan adams
-just anther repository
+just another repository
